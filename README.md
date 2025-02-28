@@ -41,7 +41,7 @@
 
 ## Установка
 
-1. Клонируйте репозиторий:
+### 1. Клонируйте репозиторий:
   ```sh
   git clone https://github.com/MerzlyakovVasiliy/Dashboard.git
   cd Dashboard
